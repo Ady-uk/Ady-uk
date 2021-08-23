@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ady-uk
-- 👀 I’m interested in web design, graphics, video & Ham Radio
-- 🌱 I’m currently learning everything I can
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in Web design, Graphics, Video & Ham Radio
+- 🌱 Currently learning everything I can
+- 💞️ Looking to collaborate on coding
 - 📫 Can reach me on email
 
 <!---
